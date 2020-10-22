@@ -48,7 +48,7 @@ def substract():
     first_number = e.get()
     global f_num
     global math
-    math = "substraction"
+    math = "subtraction"
     f_num = int(first_number)
     e.delete(0, END)
 
